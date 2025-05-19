@@ -14,7 +14,7 @@ body {
   line-height: 1.6;
   color: #333;
   background-color: #fff;
-  padding: 4rem;
+  padding: 20rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -474,6 +474,7 @@ details p {
   font-size: 1.25rem;
   margin-right: 0.75rem;
   margin-top: 0.25rem;
+  padding: 20rem
 }
 
 .social-links {
