@@ -108,9 +108,9 @@ header .container {
 }
 
 .header-avatar {
-  width: 40px;
-  height: 40px;
-  border-radius: 9999px;
+  width: 800px;
+  height: 800px;
+  border-radius: 8px;
   overflow: hidden;
   border: 1px solid #e5e7eb;
 }
